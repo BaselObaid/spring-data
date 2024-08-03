@@ -1,1 +1,1 @@
-###simple java project using hibernate
+simple java project using hibernate
